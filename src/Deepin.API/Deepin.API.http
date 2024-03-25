@@ -1,0 +1,6 @@
+@Deepin.API_HostAddress = http://localhost:1994
+
+GET {{Deepin.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
